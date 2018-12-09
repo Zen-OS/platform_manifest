@@ -8,6 +8,9 @@
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/bootable/recovery" />
 
+    <!-- External repos -->
+  <remove-project name="platform/external/selinux" />
+
     <!-- Device repos -->
   <remove-project name="device/google/marlin" />
   <remove-project name="device/google/marlin-kernel" />
