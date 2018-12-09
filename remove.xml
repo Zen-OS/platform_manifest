@@ -11,6 +11,12 @@
     <!-- External repos -->
   <remove-project name="platform/external/selinux" />
 
+    <!-- Frameworks repos -->
+  <remove-project name="platform/frameworks/compile/mclinker" />
+
+    <!-- Prebuilts repos -->
+  <remove-project name="platform/prebuilts/build-tools" />
+
     <!-- Device repos -->
   <remove-project name="device/google/marlin" />
   <remove-project name="device/google/marlin-kernel" />
