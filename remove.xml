@@ -34,4 +34,7 @@
   <remove-project name="device/linaro/hikey" />
   <remove-project name="device/linaro/hikey-kernel" />
 
+    <!-- System repos -->
+  <remove-project name="platform/system/sepolicy" />
+
 </manifest>
