@@ -3,6 +3,7 @@
 
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="zenos" />
   <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" groups="pdk" remote="zenos" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="zenos" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="zenos" />  
 
 </manifest>
