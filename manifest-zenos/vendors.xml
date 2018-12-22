@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <project path="vendor/zen" name="vendor_zen" remote="zenos" />
 
+  <project path="vendor/zen" name="vendor_zen" remote="zenos" />
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="zenos" />
+  
 </manifest>
