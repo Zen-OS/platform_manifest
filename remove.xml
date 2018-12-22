@@ -19,6 +19,7 @@
   <remove-project name="platform/packages/apps/Settings" />
 
     <!-- Services repos -->
+  <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
 
     <!-- Prebuilts repos -->

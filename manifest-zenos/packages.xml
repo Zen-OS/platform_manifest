@@ -4,7 +4,7 @@
   <project path="packages/apps/Chi" name="packages_apps_Chi" remote="zenos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="zenos" />
 
-
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="zenos" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="zenos" />
 
 </manifest>
