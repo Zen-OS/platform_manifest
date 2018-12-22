@@ -12,6 +12,7 @@
   <remove-project name="platform/external/selinux" />
 
     <!-- Frameworks repos -->
+  <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/compile/mclinker" />
   <remove-project name="platform/frameworks/opt/telephony" />
 
