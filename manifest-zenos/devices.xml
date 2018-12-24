@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- CodeAurora Additions -->
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="zenos" />
+
+</manifest> 

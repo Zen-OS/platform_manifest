@@ -11,6 +11,7 @@
 
   <!-- Imported projects -->
   <include name="manifest-zenos/build.xml" />
+  <include name="manifest-zenos/devices.xml" />
   <include name="manifest-zenos/external.xml" />
   <include name="manifest-zenos/frameworks.xml" />
   <include name="manifest-zenos/packages.xml" />
