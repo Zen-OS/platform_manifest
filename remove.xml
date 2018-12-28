@@ -46,6 +46,7 @@
   <remove-project name="device/linaro/hikey-kernel" />
 
     <!-- System repos -->
+  <remove-project name="platform/system/core" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/vold" />
 

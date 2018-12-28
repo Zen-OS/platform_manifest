@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project path="system/core" name="system_core" remote="zenos" />
   <project path="system/sepolicy" name="system_sepolicy" remote="zenos" />
-  <project path="system/vold" name="system_vold" remote="zenos" />
+  <project path="system/vold" name="system_vold" groups="pdk" remote="zenos" />
 
 </manifest>
