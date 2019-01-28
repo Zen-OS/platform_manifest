@@ -21,6 +21,9 @@
     <!-- Apps repos -->
   <remove-project name="platform/packages/apps/Settings" />
 
+   <!-- Providers repos -->
+  <remove-project name="platform/packages/providers/DownloadProvider" />
+
     <!-- Services repos -->
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
