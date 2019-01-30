@@ -3,5 +3,10 @@
 
   <project path="vendor/zen" name="vendor_zen" remote="zenos" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="zenos" />
-  
+
+<!-- QCOM vendor repos -->
+  <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="zenos" />
+  <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="zenos" />
+  <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="zenos" />
+
 </manifest>
