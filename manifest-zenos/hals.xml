@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hardware/zen/interfaces" name="hardware_zen_interfaces" remote="zenos" />
+
+</manifest>
