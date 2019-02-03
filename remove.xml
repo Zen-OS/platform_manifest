@@ -10,6 +10,7 @@
 
     <!-- External repos -->
   <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/external/tinycompress" />
 
     <!-- Frameworks repos -->
   <remove-project name="platform/frameworks/av" />
