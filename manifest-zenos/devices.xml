@@ -4,4 +4,7 @@
   <!-- CodeAurora Additions -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="zenos" />
 
+  <!-- ZenOS Custom Sepolicy -->
+  <project path="device/zen/sepolicy" name="device_zen_sepolicy" remote="zenos" />
+
 </manifest> 
