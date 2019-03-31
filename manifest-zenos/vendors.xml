@@ -3,6 +3,7 @@
 
   <project path="vendor/zen" name="vendor_zen" remote="zenos" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="zenos" />
+  <project path="vendor/support" name="vendor_support" remote="zenos" />
 
 <!-- QCOM vendor repos -->
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="zenos" />
