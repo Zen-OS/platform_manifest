@@ -5,9 +5,9 @@
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="zenos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="zenos" />
   <project path="packages/apps/ThermalController" name="packages_apps_ThermalController" remote="zenos" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="zenos" />
   <project path="packages/apps/WeatherClient" name="packages_apps_WeatherClient" remote="zenos" />
   <project path="packages/apps/Yoga" name="packages_apps_Yoga" groups="pdk-fs" remote="zenos" />
-  <project path="packages/apps/ZenOTA" name="packages_apps_ZenOTA" remote="zenos" />
 
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="zenos" />
 
