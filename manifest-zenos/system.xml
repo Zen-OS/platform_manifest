@@ -3,6 +3,7 @@
 
   <project path="system/core" name="system_core" remote="zenos" />
   <project path="system/sepolicy" name="system_sepolicy" remote="zenos" />
+  <project path="system/update_engine" name="system_update_engine" remote="zenos" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="zenos" />
 
 </manifest>
