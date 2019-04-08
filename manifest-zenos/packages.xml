@@ -4,6 +4,7 @@
   <project path="packages/apps/Chi" name="packages_apps_Chi" remote="zenos" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="zenos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="zenos" />
+  <project path="packages/apps/ThermalController" name="packages_apps_ThermalController" remote="zenos" />
   <project path="packages/apps/WeatherClient" name="packages_apps_WeatherClient" remote="zenos" />
   <project path="packages/apps/Yoga" name="packages_apps_Yoga" groups="pdk-fs" remote="zenos" />
   <project path="packages/apps/ZenOTA" name="packages_apps_ZenOTA" remote="zenos" />
