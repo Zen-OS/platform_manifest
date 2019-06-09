@@ -3,6 +3,7 @@
 
   <project path="packages/apps/Chi" name="packages_apps_Chi" remote="zenos" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="zenos" />
+  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="zenos" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="zenos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="zenos" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="zenos" />
