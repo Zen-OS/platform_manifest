@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <project path="vendor/zen" name="vendor_zen" remote="zenos" />
+
+</manifest>

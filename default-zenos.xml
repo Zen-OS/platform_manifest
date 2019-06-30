@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <remote name="zenos"
+          fetch="https://github.com/Zen-OS/"
+          revision="refs/heads/pie" />
+   <remote name="github"
+          fetch="https://github.com/" />
+
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="manifest-zenos/build.xml" />
+  <include name="manifest-zenos/vendors.xml" />
+</manifest>
