@@ -2,5 +2,6 @@
 <manifest>
 
   <project path="system/sepolicy" name="system_sepolicy" remote="zenos" />
+  <project path="system/vold" name="system_vold" remote="zenos" />
 
 </manifest>
