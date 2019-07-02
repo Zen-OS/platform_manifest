@@ -20,7 +20,15 @@
   <remove-project name="platform/frameworks/opt/telephony" />
 
     <!-- Apps repos -->
+  <remove-project name="platform/packages/apps/Calendar" />
+  <remove-project name="platform/packages/apps/Camera2" />
+  <remove-project name="platform/packages/apps/Contacts" />
+  <remove-project name="platform/packages/apps/DevCamera" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
+  <remove-project name="platform/packages/apps/ExactCalculator" />
+  <remove-project name="platform/packages/apps/Gallery" />
+  <remove-project name="platform/packages/apps/Gallery2" />
+  <remove-project name="platform/packages/apps/Launcher2" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Settings" />
