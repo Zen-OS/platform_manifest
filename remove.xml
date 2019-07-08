@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+    <!-- Art repo -->
+  <remove-project name="platform/art" />
+
     <!-- Build repos -->
   <remove-project name="platform/bionic" />
   <remove-project name="platform/build" />
