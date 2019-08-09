@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project path="system/bt" name="system_bt" remote="zenos" />
   <project path="system/core" name="system_core" remote="zenos" />
   <project path="system/sepolicy" name="system_sepolicy" remote="zenos" />
   <project path="system/update_engine" name="system_update_engine" remote="zenos" />
