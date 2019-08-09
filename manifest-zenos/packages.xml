@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="zenos" />
   <project path="packages/apps/Chi" name="packages_apps_Chi" remote="zenos" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="zenos" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="zenos" />
