@@ -2,6 +2,7 @@
 <manifest>
 
    <project path="external/selinux" name="external_selinux" remote="zenos" />
+   <project path="external/skia" name="external_skia" remote="zenos" />
    <project path="external/tinycompress" name="external_tinycompress" remote="zenos" />
   
 </manifest> 
